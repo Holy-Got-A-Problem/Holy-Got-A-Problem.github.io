@@ -1,33 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on HOLY LAB</title>
-    <link>https://Holy-Got-A-Problem.github.io/blog/</link>
-    <description>Recent content in Blogs on HOLY LAB</description>
+    <title>blog on HOLY GOT A PROBLEM</title>
+    <link>https://holy-got-a-problem.github.io/blog/</link>
+    <description>Recent content in blog on HOLY GOT A PROBLEM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 25 Aug 2020 10:07:47 +0800</lastBuildDate>
-    
-	<atom:link href="https://Holy-Got-A-Problem.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://holy-got-a-problem.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Markdown與hugo指南</title>
-      <link>https://Holy-Got-A-Problem.github.io/blog/test/</link>
-      <pubDate>Tue, 25 Aug 2020 10:07:47 +0800</pubDate>
+      <title>HOLY《KETER》Official Music Vedio</title>
+      <link>https://holy-got-a-problem.github.io/blog/keter/</link>
+      <pubDate>Wed, 27 Jan 2021 10:07:47 +0800</pubDate>
       
-      <guid>https://Holy-Got-A-Problem.github.io/blog/test/</guid>
-      <description>Markdown 攻略 Hello World
- Hello  what     我好想畢業阿</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://Holy-Got-A-Problem.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://Holy-Got-A-Problem.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
+      <guid>https://holy-got-a-problem.github.io/blog/keter/</guid>
+      <description>HOLY《KETER》Official Music Vedio If KETER belongs to me， 願犧牲我曾眷戀的一切， 與世界同歸於盡。</description>
     </item>
     
   </channel>
