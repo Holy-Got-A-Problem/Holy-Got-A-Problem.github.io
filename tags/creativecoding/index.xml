@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CreativeCoding on Holy Got A Problem</title>
+    <title>CreativeCoding on HOLY Official</title>
     <link>https://holy-got-a-problem.github.io/tags/creativecoding/</link>
-    <description>Recent content in CreativeCoding on Holy Got A Problem</description>
+    <description>Recent content in CreativeCoding on HOLY Official</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <lastBuildDate>Mon, 03 May 2021 10:05:47 +0800</lastBuildDate><atom:link href="https://holy-got-a-problem.github.io/tags/creativecoding/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>HOLY《Me In Form》</title>
+      <title>【Processing】Me In Form</title>
       <link>https://holy-got-a-problem.github.io/blog/me-in-form-processing/</link>
       <pubDate>Mon, 03 May 2021 10:05:47 +0800</pubDate>
       
       <guid>https://holy-got-a-problem.github.io/blog/me-in-form-processing/</guid>
-      <description>《Me In Form》with Processing 創作脈絡 Introduction 製作名單 Production Github 程式碼 </description>
+      <description>《Me In Form》with Processing 是我，這還是我。
+柏拉圖跟我說，我和他之間，擁有相同的理型，
+即使抽掉了敗壞的五官，
+也不妨礙你們在茫茫人海遇見我時，
+認得那個人就是我，你說是吧?
+但其實，我長成甚麼模樣，也不再重要了吧。</description>
     </item>
     
   </channel>
